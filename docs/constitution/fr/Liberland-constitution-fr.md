@@ -1,7 +1,7 @@
 % Liberland Constitution
 %
 % Last updated: 2015-06-29 15:06 CEST
-# La Constitution de la Libre République de Liberland brouillon
+# La Constitution de la République libre du Liberland brouillon
 
 > Remarquer: ceci n'est PAS une version finale de la Constitution, c'est un brouillon!
 
