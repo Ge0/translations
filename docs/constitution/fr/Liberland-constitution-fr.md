@@ -1,9 +1,9 @@
 % Liberland Constitution
 %
 % Last updated: 2015-06-29 15:06 CEST
-# La Constitution de la Libre République de Liberland brouillon
+# La Constitution de la République libre de Liberland brouillon
 
-> Remarquer: ceci n'est PAS une version finale de la Constitution, c'est un brouillon!
+> Remarque : ceci n'est PAS une version finale de la Constitution, c'est un brouillon !
 
 *We, the Citizens of the Free Republic of Liberland, in order to secure Liberty, Life and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those willing to assume responsiblity over the course of their lives. Being aware of a long and shameful list of governments’ trespasses to the Rights of the sovereign Individuals, we hereby declare that the Public Administration governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise only such functions as have been delegated to it under this Constitution. Therefore, we declare that whenever the Public Administration becomes an obstacle to, rather than a guarantor of, our Rights, it shall be our duty to alter or abolish such government, and to institute a new government for the restoration of the Rights which we consider inherent in all human beings.*
 
